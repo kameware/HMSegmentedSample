@@ -1,0 +1,2 @@
+# HMSegmentedSample
+HMSegmentedCntrolのサンプル
